@@ -6,18 +6,18 @@ categories: 软件工程
 tags: 作业
 ---
 
-##简单题
-###软件工程的定义
+## 简单题
+### 软件工程的定义
 
 Software Engineering is the **application** of **engineering** to the **development of software** in a **systematic method**.
 
-###解释 software crisis、COCOMO 模型
+### 解释 software crisis、COCOMO 模型
 
 **software crisis**: 六十年代以来，随着计算机应用需求的驱动，系统软件和应用软件有很大的发展，如操作系统，编译系统和大型应用软件等。由于软件生产的复杂性和高成本，使大型软件的生产出现了很大的困难，即出现软件危机。
  
 **COCOMO模型**： COCOMO，英文全称为constructive cost model，中文为构造性成本模型。它是一种精确、易于使用的，基于模型的成本估算方法，最早由勃姆 （Boehm） 于 1981 年提出。从本质上说是一种参数化的项目估算方法，参数建模是把项目的某些特征作为参数，通过建立一个数字模型预测项目成本（类似于居住面积作为参数计算的整体的住房成本）。
 
-###软件生命周期
+### 软件生命周期
 
 1. 评估现有系统。　(问题定义与规划)
 2. 确定新系统的要求。　（需求分析）
@@ -26,12 +26,12 @@ Software Engineering is the **application** of **engineering** to the **developm
 5. 新系统投入使用。　（软件测试）
 6. 新系统完成以及运行一段时间后，需要进行彻底评估，并时刻进行严格维护。 （运行维护）
 
-###按照 SWEBok 的 KA 划分，本课程关注哪些 KA 或 知识领域？
+### 按照 SWEBok 的 KA 划分，本课程关注哪些 KA 或 知识领域？
 * Software requirements
 * Software configuration management
 * Software engineering management
 
-###解释 CMMI 的五个级别。
+### 解释 CMMI 的五个级别。
 1． 初始级
 　　软件过程是无序的，有时甚至是混乱的，对过程几乎没有定义，成功取决于个人努力。管理是反应式的。
 2．可重复级
@@ -43,7 +43,7 @@ Software Engineering is the **application** of **engineering** to the **developm
 5． 优化管理级
 　　过程的量化反馈和先进的新思想、新技术促使过程持续不断改进。
 　　
-###用自己语言简述 SWEBok 或 CMMI 
+### 用自己语言简述 SWEBok 或 CMMI 
 **SWEBok：**这是一个国际标准的软件工程知识体系。标准3拥有15个知识领域。具体如下：
 * Software requirements
 * Software design
@@ -64,7 +64,7 @@ Software Engineering is the **application** of **engineering** to the **developm
 
 **CMMI：**这是一个标准，用于评测企业的软件工程化水平。一方面这个标准可以指导企业进步，另一方面则是可以客观评估一个企业的软件开发工程化水平。
 
-##解释 PSP 各项指标及技能要求
+## 解释 PSP 各项指标及技能要求
 1. 知识:  对具体技术的掌握, 动手能力例如: 对Java, C/C++/C#, 诊断/提高效能的技术,  对device driver, kernel debugger 的掌握；对于某一开发平台的掌握。
 
 2. 经验: 对问题领域的知识和经验的积累 (例如: 对于医疗行业的了解, 对于金融行业的了解)。第一点和第二点都可以在很多简历上看到, 也可以比较容易地检测出来。随着经验的增长, 一个工程师可以掌握更广泛，更深入的技术和问题领域的知识。
